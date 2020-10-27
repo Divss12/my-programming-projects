@@ -1,0 +1,1 @@
+This folder contains random PIL (Python Imaging Library) projects. This is mostly just me messing around and so there is not much documentation.
